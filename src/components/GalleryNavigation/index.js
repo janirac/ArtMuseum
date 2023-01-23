@@ -20,4 +20,5 @@ const GalleryNavigation = (props) => {
   );
 };
 
+
 export default GalleryNavigation
